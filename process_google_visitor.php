@@ -154,7 +154,7 @@ echo "
             <div class='message'>
                 Your visit has been logged successfully.
             </div>
-            <a href='landing.php' class='back-btn'>Exit</a>
+            <a href='index.php' class='back-btn'>Exit</a>
             <div class='footer-note'>
                 Thank you for using the library check-in system.
             </div>
